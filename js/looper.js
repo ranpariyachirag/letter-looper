@@ -1,4 +1,4 @@
-var i,b,a,j;
+var i,a,j;
 
 while(!a)
     {
